@@ -1,5 +1,5 @@
 # Post-Your-App
 
-An app to post screenshots of cools other apps (Devslopes)
+An app to post screenshots of cool other apps (course :Devslopes)
 
 I did this project to use Firebase and Imageshack. 
