@@ -1,0 +1,16 @@
+PODS:
+  - Alamofire (3.2.0)
+  - Firebase (2.5.0)
+  - SwiftSpinner (0.8.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - Firebase (>= 2.5.0)
+  - SwiftSpinner
+
+SPEC CHECKSUMS:
+  Alamofire: 4da478599fccddff361205c8929333d7fe18dceb
+  Firebase: 744617c0733b45198f9486ebd5cac64ec2d10d79
+  SwiftSpinner: 11c2c5ec7443d92f3026d3067ca8a91d4adef13f
+
+COCOAPODS: 0.39.0
